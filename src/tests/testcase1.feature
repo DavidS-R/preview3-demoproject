@@ -1,6 +1,6 @@
 Feature: Validation Test Case 1
 
-  @tests:SYSR-PR-1
+  @itemTested:KXITM29SG1FYCAK99RAZGD7RM85WYW9
   @id:test-case-val-1
   Scenario: Validation Test Case 1
     Given a
